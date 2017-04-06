@@ -1,11 +1,11 @@
 // exercise 1: print out the span elements:
 var getTheSpans = document.getElementsByTagName('span')
-console.log(theSpans)
+console.log(getTheSpans)
 
 // Write JavaScript that will select all of the div tags with a class of foo
 // and log them to the console.
 var getfooClassDivs = document.querySelectorAll('div.foo')
-console.log(fooClass)
+console.log(getfooClassDivs)
 
 // exercise 3: Given the following HTML document, write JavaScript
 // code that will remove any list elements containing the letter "a".
